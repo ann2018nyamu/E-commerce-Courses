@@ -1,0 +1,108 @@
+{
+    "items":[
+        {
+            "sys": {"id":"1"},
+            "fields":{
+                "title":"Python Programming MasterCourse",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+        {
+            "sys": {"id":"2"},
+            "fields":{
+                "title":"C++ MasterCourse",
+                "price": 110.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+        {
+            "sys": {"id":"3"},
+            "fields":{
+                "title":"Web Development for Beginners",
+                "price": 99.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+        {
+            "sys": {"id":"4"},
+            "fields":{
+                "title":"Java Programming MasterCourse",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+        {
+            "sys": {"id":"5"},
+            "fields":{
+                "title":"Digital Marketing Full Course",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+        {
+            "sys": {"id":"6"},
+            "fields":{
+                "title":"Advanced Web Development",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+
+        {
+            "sys": {"id":"7"},
+            "fields":{
+                "title":"Data Structures & AlgorithmsCourse",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+
+        {
+            "sys": {"id":"8"},
+            "fields":{
+                "title":"Data Science Full Course",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        },
+
+
+
+
+        {
+            "sys": {"id":"9"},
+            "fields":{
+                "title":"Android Full Course",
+                "price": 123.99,
+                "image":{"fields":{"file":{"url":"../images/nature_3.jpg"}}}
+            }
+        }
+
+
+
+
+
+
+    ]
+}
